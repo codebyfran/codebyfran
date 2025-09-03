@@ -1,25 +1,24 @@
-# I’m :fr:  
+# Je suis :fr:  
 
-:man_dancing: Some say *“I code with the elegance of a Renaissance poet—logic in structure, poetry in syntax.”*  
-Me? I just like experimenting, pushing boundaries, and seeing what happens when you rebuild something from the ground up.  
+:man_dancing: Certains disent *« Je code avec l’élégance d’un poète de la Renaissance — logique dans la structure, poésie dans la syntaxe. »*  
+Moi ? J’aime surtout expérimenter, repousser les limites et voir ce qui se passe quand on reconstruit quelque chose depuis zéro.  
 
-✨ **Quality Over Quantity**  
-I’d rather ship one thing that makes an impact than ten half-baked projects. Code isn’t about volume — it’s about clarity, performance, and leaving something behind that others can rely on.  
+✨ **La Qualité avant la Quantité**  
+Je préfère livrer un projet qui a de l’impact plutôt que dix à moitié finis. Le code n’est pas une question de volume — c’est une question de clarté, de performance et de laisser derrière soi quelque chose de fiable.  
 
-🤝 **Team Player**  
-Collaboration fuels my work. From brainstorming wild ideas to debugging at crunch time — great projects come from great teams.  
+🤝 **Esprit d’Équipe**  
+La collaboration alimente mon travail. Qu’il s’agisse de lancer des idées folles ou de déboguer en plein rush — les grands projets naissent des grandes équipes.  
 
-🚀 **Always Exploring**  
-Tech never stands still, and neither do I. Whether it’s new frameworks, AI-driven workflows, or experimental hacks, I’m always curious and always moving forward.  
+🚀 **Toujours en Exploration**  
+La tech n’arrête jamais d’évoluer, et moi non plus. Qu’il s’agisse de nouveaux frameworks, de flux de travail dopés à l’IA ou de hacks expérimentaux, je suis toujours curieux et toujours en mouvement.  
 
-📚 **Always Learning**  
-Treating every project as a chance to learn 
+📚 **Toujours en Apprentissage**  
+Chaque projet est une opportunité d’apprendre.  
 
-🛠 **Always Breaking**  
-I don’t just build — I break, rebuild, and reshape. Sometimes it’s clean, sometimes it’s a Frankenstein of ideas stitched together. But it’s never static. Experiment, fail fast, and keep moving forward — that’s the game.  
+🛠 **Toujours en Train de Casser**  
+Je ne fais pas que construire — je casse, je reconstruis et je transforme. Parfois c’est propre, parfois c’est un Frankenstein d’idées recousues. Mais ce n’est jamais statique. Expérimenter, échouer vite et avancer — voilà le jeu.  
 
-
-## 🎯 GitHub by the Numbers  
+## 🎯 GitHub en Chiffres 
 
 ![Francois's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebyfran&show_icons=true&theme=radical)  
 
